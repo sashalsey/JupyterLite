@@ -1,0 +1,9 @@
+name: jupyterlite-xeus
+channels:
+  - conda-forge
+dependencies:
+  - xeus-python
+  - numpy
+  - matplotlib
+  - scipy
+  - ipython
